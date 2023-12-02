@@ -1,5 +1,5 @@
 //export const BACKEND_URL = "http://localhost:5000";
-export const BACKEND_URL = " http://3.25.232.245/api";
+export const BACKEND_URL = " http://3.27.217.37/api";
 export const COMETCHAT_KEYS = {
   APP_ID: "2399887cdeccbaac",
   REGION: "eu",
